@@ -1,1 +1,1 @@
-jag är ganska så dålig på allt
+Jag är _ganska_ så __dålig__ på _allt._
